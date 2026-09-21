@@ -1,0 +1,36 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       876
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       1304
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       492
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1128
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1572
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2080
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       620
+  TCP    0.0.0.0:49676          0.0.0.0:0              LISTENING       628
+  TCP    10.0.17.32:139         0.0.0.0:0              LISTENING       4
+  TCP    10.0.17.32:50179       104.208.203.88:443     ESTABLISHED     2504
+  TCP    [::]:135               [::]:0                 LISTENING       876
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:49664             [::]:0                 LISTENING       492
+  TCP    [::]:49665             [::]:0                 LISTENING       1128
+  TCP    [::]:49666             [::]:0                 LISTENING       1572
+  TCP    [::]:49667             [::]:0                 LISTENING       2080
+  TCP    [::]:49668             [::]:0                 LISTENING       620
+  TCP    [::]:49676             [::]:0                 LISTENING       628
+  UDP    0.0.0.0:5050           *:*                                    1304
+  UDP    0.0.0.0:5353           *:*                                    1496
+  UDP    0.0.0.0:5355           *:*                                    1496
+  UDP    10.0.17.32:137         *:*                                    4
+  UDP    10.0.17.32:138         *:*                                    4
+  UDP    10.0.17.32:1900        *:*                                    3756
+  UDP    10.0.17.32:56882       *:*                                    3756
+  UDP    127.0.0.1:1900         *:*                                    3756
+  UDP    127.0.0.1:50137        *:*                                    1424
+  UDP    127.0.0.1:56880        *:*                                    2688
+  UDP    127.0.0.1:56883        *:*                                    3756
+  UDP    [::1]:1900             *:*                                    3756
+  UDP    [::1]:56881            *:*                                    3756
